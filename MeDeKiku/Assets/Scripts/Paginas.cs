@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class PageManager : MonoBehaviour
+public class Paginas : MonoBehaviour
 {
     [Header("Lista de páginas en orden")]
     public List<GameObject> pages;
@@ -27,7 +27,11 @@ public class PageManager : MonoBehaviour
             if (cg != null)
             {
                 cg.alpha = i == currentPageIndex ? 1 : 0;
-                pages[i].SetActive(true); // Mantener activas para fade
+                pages[i].SetActive(true); // Activar siempre para permitir animaciones
+            }
+            else
+            {
+                Debug.LogWarning($"La página {pages[i].name} no tiene CanvasGroup.");
             }
         }
 
@@ -64,7 +68,10 @@ public class PageManager : MonoBehaviour
             yield break;
         }
 
-        // Fade out actual
+        // Opcional: activar la nueva página antes de hacer fade-in si está desactivada
+        // pages[newPageIndex].SetActive(true);
+
+        // Fade out página actual
         float t = 0f;
         while (t < transitionDuration)
         {
@@ -75,9 +82,14 @@ public class PageManager : MonoBehaviour
         }
         current.alpha = 0;
 
-        // Fade in nueva
-        t = 0f;
+        // Opcional: desactivar la página saliente si quieres pausar animaciones
+        // pages[currentPageIndex].SetActive(false);
+
+        // Cambiar índice actual
         currentPageIndex = newPageIndex;
+
+        // Fade in nueva página
+        t = 0f;
         while (t < transitionDuration)
         {
             t += Time.deltaTime;
