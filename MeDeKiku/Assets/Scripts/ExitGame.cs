@@ -13,11 +13,12 @@ public class ExitGame : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+       
     }
     public void Exit() 
     {
         Application.Quit();
-    
+        Debug.Log("Salio");
+
     }
 }
