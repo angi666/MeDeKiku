@@ -630,7 +630,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Al recorrer la ciudad se encontro monstruos marinos
+  m_text: "Al recorrer la ciudad se encontr\xF3 monstruos marinos"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d7177934ff0654248abf11bd8e09ebe9, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 59f78fbf8f4e660478e7422f3039c751, type: 2}
@@ -780,7 +780,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Naia cayo inconciente
+  m_text: "Naia cay\xF3 inconciente"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d7177934ff0654248abf11bd8e09ebe9, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 59f78fbf8f4e660478e7422f3039c751, type: 2}
@@ -1816,7 +1816,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: I al ver que no habia forma de comunicarse, se alejaron
+  m_text: "I al ver que no hab\xEDa forma de comunicarse, se alejaron"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d7177934ff0654248abf11bd8e09ebe9, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 59f78fbf8f4e660478e7422f3039c751, type: 2}
@@ -2358,7 +2358,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: cansada de recorer tantos kilometros cayo dormida.
+  m_text: "cansada de recorer tantos kil\xF3metros cay\xF3 dormida."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d7177934ff0654248abf11bd8e09ebe9, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 59f78fbf8f4e660478e7422f3039c751, type: 2}
@@ -2508,8 +2508,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Se disculparon y le explicaron que las zonas altas aun se estan recuperando
-    de una catastrofe
+  m_text: "Se disculparon y le explicaron que las zonas altas a\xFAn se estan recuperando
+    de una catastrofe"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d7177934ff0654248abf11bd8e09ebe9, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 59f78fbf8f4e660478e7422f3039c751, type: 2}
@@ -3365,7 +3365,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: E intento acercarse a hablar con ellos.
+  m_text: "E intent\xF3 acercarse a hablar con ellos."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d7177934ff0654248abf11bd8e09ebe9, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 59f78fbf8f4e660478e7422f3039c751, type: 2}
@@ -5871,7 +5871,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 632, y: 565}
+  m_AnchoredPosition: {x: 592, y: 565}
   m_SizeDelta: {x: 967.8431, y: 118.6113}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &939983879
@@ -5909,7 +5909,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Un dia de verano mientras nadaba lejos de la orilla una ola la arrastro
+  m_text: "Un d\xEDa de verano mientras nadaba lejos de la orilla una ola la arrastr\xF3"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d7177934ff0654248abf11bd8e09ebe9, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 59f78fbf8f4e660478e7422f3039c751, type: 2}
@@ -7188,7 +7188,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: En casa, sus padres aprendieron a comunicarse a traves de lengua de signos
+  m_text: "En casa, sus padres aprendieron a comunicarse a trav\xE9s de lengua de
+    signos"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d7177934ff0654248abf11bd8e09ebe9, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 59f78fbf8f4e660478e7422f3039c751, type: 2}
@@ -8443,7 +8444,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Naia frustrada y triste, se acerco a un arbol inmenso
+  m_text: "Naia frustrada y triste , se acerc\xF3 a un \xE1rbol inmenso"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d7177934ff0654248abf11bd8e09ebe9, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 59f78fbf8f4e660478e7422f3039c751, type: 2}
@@ -9791,7 +9792,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "los monstruos se transformsrton en una grtan ola, llegaron a un gran portal
+  m_text: "los monstruos se transformaron en una gran ola, llegaron a un gran portal
     y de repente Naia...\xA1VOLABA!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d7177934ff0654248abf11bd8e09ebe9, type: 2}
@@ -10166,7 +10167,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Engulllendola en lo mas profundo
+  m_text: "Engulll\xE9ndola en lo mas profundo"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d7177934ff0654248abf11bd8e09ebe9, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 59f78fbf8f4e660478e7422f3039c751, type: 2}
@@ -10316,7 +10317,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Al tratar de hablar haciendoles se\xF1as, estos no la entendian"
+  m_text: "Al tratar de hablar haciendoles se\xF1as, estos no la entend\xEDan"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d7177934ff0654248abf11bd8e09ebe9, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 59f78fbf8f4e660478e7422f3039c751, type: 2}
@@ -11467,7 +11468,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: pero nadie sabia a que se referia
+  m_text: "pero nadie sab\xEDa a que se referia"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d7177934ff0654248abf11bd8e09ebe9, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 59f78fbf8f4e660478e7422f3039c751, type: 2}
@@ -11617,7 +11618,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Cuando el monstruo llego, les explico como comunicarse con Naia
+  m_text: "Cuando el monstruo lleg\xF3, les explico como comunicarse con Naia"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d7177934ff0654248abf11bd8e09ebe9, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 59f78fbf8f4e660478e7422f3039c751, type: 2}
@@ -11767,9 +11768,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Pese a no saber como comunicarse con ella, la cogio de la mano y la llevo
-    a recorrer lo mas profundo de la ciudad,donde se encontraban monstruos de toda
-    especie.
+  m_text: "Pese a no saber como comunicarse con ella, la cogi\xF3 de la mano y la
+    llevo a recorrer lo mas profundo de la ciudad , donde se encontraban monstruos
+    de toda especie."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d7177934ff0654248abf11bd8e09ebe9, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 59f78fbf8f4e660478e7422f3039c751, type: 2}
@@ -12295,7 +12296,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: las lagrimas flotaban con Naia, eran lagrimas e felicidad
+  m_text: "las l\xE1grimas flotaban con Naia, eran l\xE1grimas de felicidad"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d7177934ff0654248abf11bd8e09ebe9, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 59f78fbf8f4e660478e7422f3039c751, type: 2}
@@ -13579,7 +13580,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: De repende noto que algo la movia y al abrir los ojos vio que era monstruo
+  m_text: "De repende noto que algo la mov\xEDa y al abrir los ojos vio que era monstruo"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d7177934ff0654248abf11bd8e09ebe9, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 59f78fbf8f4e660478e7422f3039c751, type: 2}
@@ -14126,7 +14127,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Les pregunto a algunos mosntruos si sabian el camino de vuelta a casa
+  m_text: "Les pregunt\xF3 a algunos monstruos si sabian el camino de vuelta a casa"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d7177934ff0654248abf11bd8e09ebe9, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 59f78fbf8f4e660478e7422f3039c751, type: 2}
@@ -14712,8 +14713,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: este lugar se encontraba en ruinas, calles estrechas llenas de escombros
-    y polo,oscuridad por donde la veas
+  m_text: este lugar se encontraba en ruinas , calles estrechas llenas de escombros
+    y polvo , oscuridad por donde la veas
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d7177934ff0654248abf11bd8e09ebe9, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 59f78fbf8f4e660478e7422f3039c751, type: 2}
